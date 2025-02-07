@@ -1,4 +1,4 @@
-# Movie Recommendation Engine - InfoSeekers
+# Movie Recommendation Engine
 
 ## Project Overview
 This project focuses on developing a movie recommendation engine using collaborative filtering techniques. The aim is to improve user experiences by offering personalized movie suggestions based on user preferences and interactions.
