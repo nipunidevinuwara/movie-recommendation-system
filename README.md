@@ -7,6 +7,9 @@ This project focuses on developing a movie recommendation engine using collabora
 - Implement a recommendation engine using collaborative filtering.
 - Improve movie recommendation precision through pivot-based similarity calculations.
 
+## Dataset
+- **Source:** [Kaggle - Movies Dataset](https://www.kaggle.com/datasets/bandikarthik/movie-recommendation-system)
+
 ## Key Features
 - Personalized movie recommendations based on user interactions.
 - Dynamic refinement of recommendations as users engage with the system.
